@@ -34,7 +34,21 @@ Es un lugar dentro de _git, lo que ya este listo (_archivo nuevo o cambios a un 
 - `git switch <nombre-de-la-rama>` cambiar de rama
 - `git switch -c <nombre-de-la-nueva-rama>` cambiar y crear una nueva rama
 
+### uso del merge
+- `git switch main` cambiar a la rama principal 
+- `git merge <nombre-de-la-rama>` para mesclar a la rama principal
+
+### rebase
+**Nunca usar rebase en ramas publicas**
 >
+
+### Git y los repositorios remotos
+- `git remote add origin <url>` agregamos un nuevo repositorio remoto (_donde **origin** puede tener cualquier nombre, pero por convencion se utiliza siempre **origin**)_
+- `git remote -v` muestra el repositorio remoto
+- `git push -u origin main` envia los cambio al origin en la rama main
+- `git remove rm origin` Remover un repositorio remoto
+- `git pull origin main`
+
 
 
 

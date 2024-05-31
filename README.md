@@ -1,1 +1,2 @@
 # Bootcamp de Guillermo Rodas
+Acá podrás econtrar los enlaces respectivos del bootcamp y de mas informacion de interes 🏕️ [Base de conocimientos.](https://undefinedshell.notion.site/Semana-1-1cd3b0f777a44b4894456521cc0e649c#627a510ea8514e5fbd4cf6b206dc2048)
