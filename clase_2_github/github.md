@@ -24,7 +24,17 @@ Es un lugar dentro de _git, lo que ya este listo (_archivo nuevo o cambios a un 
 - Revisamos el log del commit con `git log`
 
 >
+### Ramas **(Branch)** y uso del merge
+ - `git branch <nombre-de-la-rama>` crea una nueva rama
+ - `git branch` lista las ramas
+ - `git checkout <nombre-de-la-rama>` cambiar de rama
+ - `git checkout -b <nombre-de-la-rama-nueva>` cambiar y crear una nueva rama
 
+### Sintaxis Moderna
+- `git switch <nombre-de-la-rama>` cambiar de rama
+- `git switch -c <nombre-de-la-nueva-rama>` cambiar y crear una nueva rama
+
+>
 
 
 
