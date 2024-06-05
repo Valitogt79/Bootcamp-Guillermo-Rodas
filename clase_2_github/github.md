@@ -43,11 +43,12 @@ Es un lugar dentro de _git, lo que ya este listo (_archivo nuevo o cambios a un 
 >
 
 ### Git y los repositorios remotos
-- `git remote add origin <url>` agregamos un nuevo repositorio remoto (_donde **origin** puede tener cualquier nombre, pero por convencion se utiliza siempre **origin**)_
+- `git remote add origin <url>` agregamos un nuevo repositorio remoto via **SH** (_donde **origin** puede tener cualquier nombre, pero por convencion se utiliza siempre **origin**)_
 - `git remote -v` muestra el repositorio remoto
 - `git push -u origin main` envia los cambio al origin en la rama main
 - `git remove rm origin` Remover un repositorio remoto
 - `git pull origin main`
+- `git clone <url>` para clonar un repositorio via **SSH**
 
 
 
